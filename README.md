@@ -51,7 +51,7 @@ graph LR
 ├── scramble_builtin.m
 ├── generateBits.m
 ├── symbolTimingSync.m     # Zero-crossing TED (WIP)
-└── SupplementaryScripts/         # visualisation functions
+└── SupplementaryScripts/  # visualisation functions
 ```
 
 ## Status
@@ -63,7 +63,7 @@ graph LR
 | Coarse freq sync | ✅ | — |
 | Carrier PLL | ✅ | — |
 | Frame sync | ✅ | — |
-| Symbol timing (Gardner) |  WIP | — |
+| Symbol timing (Zero-TED) |  WIP | — |
 | USRP interface | — |  WIP |
 | Multipath channel | — | planned |
 
